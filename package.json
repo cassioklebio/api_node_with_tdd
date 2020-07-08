@@ -1,0 +1,19 @@
+{
+  "name": "api_node_with_tdd",
+  "version": "1.0.0",
+  "description": "creating nodejs API using TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cassioklebio/api_node_with_tdd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cassioklebio/api_node_with_tdd/issues"
+  },
+  "homepage": "https://github.com/cassioklebio/api_node_with_tdd#readme"
+}
